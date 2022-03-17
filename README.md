@@ -11,6 +11,6 @@
 <a href="http://qiita.com/Hiiisan"><img src="https://qiita-badge.apiapi.app/s/Hiiisan/followers.svg" alt="My Qiita followers"></a></p>
 </div>
 
-### Twitter
+<!-- ### Twitter
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Hiiisan.svg?style=social)](https://twitter.com/Hiiisan) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/Hiiisan.svg?style=social)](https://twitter.com/Hiiisan)  -->
