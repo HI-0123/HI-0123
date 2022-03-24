@@ -13,4 +13,4 @@
 
 ### Twitter
 
-<a href="https://twitter.com/Hiiisan6" target=_blank><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Hiiisan6?style=social"></a>
+<a href="https://twitter.com/Hiiisan6" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Hiiisan6?style=social"></a>
