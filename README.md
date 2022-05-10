@@ -15,5 +15,5 @@
 
 <a href="https://twitter.com/Hiiisan6" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Hiiisan6?style=social"></a>
 
-## リリースアプリ
+### リリースアプリ
 Android　：　<a href="https://play.google.com/store/apps/details?id=com.ito_mukai.my_kara_list" target="_blank">まいKARALIST</a>
